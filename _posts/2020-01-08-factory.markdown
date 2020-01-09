@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " Cynergy (Google's 1st Vendor Company) intern"
-date:   2020-01-07 21:03:36 +0530
+date:   2020-01-08 21:03:36 +0530
 categories: Java ORACLE SQL ADB ANDROID
 ---
 ## 생산관리기반 Android Fastboot 다중 device Checker 소프트웨어 제작 및 개발일지
