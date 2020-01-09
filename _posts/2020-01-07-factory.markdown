@@ -1,0 +1,23 @@
+---
+layout: post
+title:  " Cynergy (Google's 1st Vendor Company) intern"
+date:   2020-01-07 21:03:36 +0530
+categories: Java ORACLE SQL ADB ANDROID
+---
+## 생산관리기반 Android Fastboot 다중 device Checker 소프트웨어 제작 및 개발일지
+<img src="https://media.licdn.com/dms/image/C4E0BAQFleL4YvnMkxQ/company-logo_200_200/0?e=2159024400&v=beta&t=RNTj5_SMUwNHi5PeDrkGH9igztxHj976a3yPRd7wbN8">
+
+* 때는 2018년  8월부터 2019년 8월까지의 미국 텍사스 달라스에서의 J1비자를 받고 1년간 인턴쉽의 과정중 사내에서 주어진 첫번째 프로젝트이다.
+ 프로젝트의 경험이 매우 적지만 , 인턴쉽의 과정중에서 가장 신경쓰고 설계단부터 개발 배포 과정까지 다 관여를 해본 프로젝트이다.
+  사내에서 활용 되고있으며 공장의 새로운 라인까지 만들며 운영되고 있는 , 가장 뜻 깊은 프로젝트이다. 
+ 
+ 프로젝트 총괄하는 프로세스 엔지니어가 인도 친구 였는데, 초반에 영어가 통하지않아 , 참 애먹었다.
+ 
+시작
+--------------------------------------
+<a>https://github.com/ghpower93/google-Gstore-mobile-project</a>
+깃헙주소는 다음과 같다.
+
+[GIT-HUB]:   https://github.com/ghpower93/google-Gstore-mobile-projec
+
+
