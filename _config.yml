@@ -1,10 +1,9 @@
-title: Your awesome title
+title: Jiho Park Portfolio
 author: GitHub User
-email: your-email@domain.com
+email: ghpower93@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I have several intern experience from korea , usa
+  I will write down software project or IT News on site.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,17 +11,17 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Jiho park
+  tagline: Software engineer. Operations
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
+    instagram: https://www.facebook.com/jicoder
+    github:  https://github.com/ghpower93
+    linkedIn: https://www.linkedin.com/in/jiho-park-jackson93/
+    #rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
