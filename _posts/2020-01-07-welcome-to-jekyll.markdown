@@ -14,7 +14,7 @@ categories: Java Android SQL
   
   시작
   -------------------
-
+<a>https://github.com/ghpower93/univ-talk</a> 프로젝트의 주소는 다음과 같다
 
 [GIT-HUB]:   https://github.com/ghpower93/univ-talk
 
