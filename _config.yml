@@ -12,7 +12,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Jiho park
-  tagline: Software engineer. Operations
+  tagline: Software / IT
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
