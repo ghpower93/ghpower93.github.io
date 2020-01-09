@@ -5,7 +5,6 @@ date:   2020-01-07 22:03:36 +0530
 categories: sql Wordpress PHP
 ---
 ## Wordpress PHP 게시판 제작 및 개발일지
-
 <img src="http://edudonga.com/data/article/1805/68a706eb5338c463a9709e0439c21f4c_1526865883_98.jpg">
 
 
